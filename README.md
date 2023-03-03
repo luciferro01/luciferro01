@@ -6,14 +6,13 @@ App Devleoper
 
 I have been learning code to code for 8 months now, after exploring various frameworks and learning new tech, I started Flutter and fall in love with it instantly, same way in the Bollywood movies.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [mohil1111bansal@gmail.com](mailto:mohil1111bansal@gmail.com)
-* 🧠  I'm learning some cool Backend services
-* 🤝  I'm open to collaborating on Flutter projects
-* ⚡  I'm secretly Doctor Strange... but don't tell anyone
+* 🌍  I'm based in India
+* ✉️  You can contact me at [mohil1111bansal@gmail.com](mailto:mohil1111bansal@gmail.com)
+* 🧠  I'm learning some cool Backend services
+* 🤝  I'm open to collaborating on Flutter projects
+* ⚡  I'm secretly Doctor Strange... but don't tell anyone
 
 ### Skills
-
 
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -29,7 +28,6 @@ I have been learning code to code for 8 months now, after exploring various fram
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/luciferro01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohil_bansal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohil-bansal-6a9490227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MOHIL50187455" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -38,10 +36,8 @@ I have been learning code to code for 8 months now, after exploring various fram
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/luciferro01"><img src="https://github-readme-stats.vercel.app/api?username=luciferro01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="luciferro01's GitHub stats" /></a>
+<a href="http://www.github.com/luciferro01"><img src="https://github-readme-stats.vercel.app/api?username=luciferro01&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=6366f1&icon_color=f97316&bg_color=171717&hide_border=true&show_icons=true" alt="luciferro01's GitHub stats" /></a>
 
-<a href="http://www.github.com/luciferro01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luciferro01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/luciferro01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luciferro01&stroke=6366f1&background=171717&ring=a855f7&fire=a855f7&currStreakNum=6366f1&currStreakLabel=a855f7&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="http://www.github.com/luciferro01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=luciferro01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/luciferro01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciferro01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/luciferro01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=luciferro01&bg_color=171717&color=6366f1&line=f97316&point=6366f1&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
