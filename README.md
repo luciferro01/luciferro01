@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MOHIL BANSAL
 ====================================================================================================================================
 
-App Devleoper
--------------
+<!-- App Devleoper
+------------- -->
 
 I have been learning code to code for 8 months now, after exploring various frameworks and learning new tech, I started Flutter and fall in love with it instantly, same way in the Bollywood movies.
 
@@ -11,6 +11,14 @@ I have been learning code to code for 8 months now, after exploring various fram
 * 🧠  I'm learning some cool Backend services
 * 🤝  I'm open to collaborating on Flutter projects
 * ⚡  I'm secretly Doctor Strange... but don't tell anyone
+
+[![@luciferro01's Holopin badges](https://holopin.me/luciferro01)](https://holopin.io/@luciferro01)
+  
+  
+  
+ ## 🌐 Socials
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohilbansal/) 
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohil_bansal/)
 
 ### Skills
 
