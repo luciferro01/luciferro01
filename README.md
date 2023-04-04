@@ -77,4 +77,4 @@ I have been learning code to code for 8 months now, after exploring various fram
 
 <a href="http://www.github.com/luciferro01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=luciferro01&bg_color=171717&color=6366f1&line=f97316&point=6366f1&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
+![Snake animation](https://github.com/luciferro01/luciferro01/blob/output/github-contribution-grid-snake.svg)
