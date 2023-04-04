@@ -15,9 +15,10 @@ I have been learning code to code for 8 months now, after exploring various fram
 [![@luciferro01's Holopin badges](https://holopin.me/luciferro01)](https://holopin.io/@luciferro01)
   
   
-  
  ## 🌐 Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohilbansal/) 
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciferro01)
+ [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MOHIL50187455)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohil_bansal/)
 
 ### Skills
@@ -36,16 +37,14 @@ I have been learning code to code for 8 months now, after exploring various fram
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/luciferro01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohil_bansal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohil-bansal-6a9490227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MOHIL50187455" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## 📟 GitHub Stats
+<p align="center">
+	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=luciferro01&count_private=true&show_icons=true&theme=dracula" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luciferro01&count_private=true&show_icons=true&theme=dracula" />
+</p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/luciferro01"><img src="https://github-readme-stats.vercel.app/api?username=luciferro01&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=6366f1&icon_color=f97316&bg_color=171717&hide_border=true&show_icons=true" alt="luciferro01's GitHub stats" /></a>
-
-<a href="http://www.github.com/luciferro01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luciferro01&stroke=6366f1&background=171717&ring=a855f7&fire=a855f7&currStreakNum=6366f1&currStreakLabel=a855f7&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
 <a href="http://www.github.com/luciferro01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=luciferro01&bg_color=171717&color=6366f1&line=f97316&point=6366f1&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
