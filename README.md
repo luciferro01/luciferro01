@@ -1,11 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MOHIL BANSAL
-====================================================================================================================================
 
-<!-- App Devleoper
-------------- -->
+![MasterHead](https://external-preview.redd.it/-QV1NPRaxpwxQd_BN59Mx6U77V40S-AYfwCvaSQQPHg.jpg?auto=webp&s=19a6b87654243077f877818165296d722c51e8ff)
+<h1 align="center">Hi 👋, I'm Mohil Bansal</h1>
+<h3 align="center">A passionate App developer</h3>
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MOHIL BANSAL -->
+<!-- ==================================================================================================================================== -->
 
-I have been learning code to code for 8 months now, after exploring various frameworks and learning new tech, I started Flutter and fall in love with it instantly, same way in the Bollywood movies.
-
+<!-- I have been learning code to code for 8 months now, after exploring various frameworks and learning new tech, I started Flutter and fall in love with it instantly, same way in the Bollywood movies.
+ -->
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mohil1111bansal@gmail.com](mailto:mohil1111bansal@gmail.com)
 * 🧠  I'm learning some cool Backend services
