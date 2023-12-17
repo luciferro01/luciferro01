@@ -15,62 +15,63 @@
   
   
  ## 🌐 Socials
- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciferro01)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohilbansal/) 
- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MOHIL50187455)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohil_bansal/)
+ [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/luciferro01)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohilbansal/) 
+ [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/MOHIL50187455)
+ [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/mohil_bansal/)
 
 ## 💻 Tech Stack 
 
 #### Languages
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
+![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 
 #### Framework
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![Svelte](https://img.shields.io/badge/Svelte-000?style=for-the-badge&logo=svelte)
 
 #### CSS Library
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
 
 
 #### Design Tools
 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-000?style=for-the-badge&logo=adobe%20illustrator)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-000?&style=for-the-badge&logo=Canva)
+![Blender](https://img.shields.io/badge/Blender-000?&style=for-the-badge&logo=blender)
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000.svg?logo=firebase&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![SQLITE](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
+![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase&style=for-the-badge)
+![MongoDb](https://img.shields.io/badge/MongoDb-000?logo=mongodb&style=for-the-badge)
 
 #### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
-<!--![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white&style=for-the-badge)-->
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white%29)
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/express.js-000?logo=express&logoColor=%2361DAFB&style=for-the-badge)
 
 #### Web & App Hosting
 
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-000?style=for-the-badge&logo=google-play)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 
 #### Version Control
 
-![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
 ## 📟 GitHub Stats
 <p align="center">
