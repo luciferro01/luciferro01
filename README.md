@@ -34,10 +34,11 @@
 
 #### Framework
 
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=blue)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
-![Svelte](https://img.shields.io/badge/Svelte-000?style=for-the-badge&logo=svelte)
+![React Native](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react)
+<!-- ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![Svelte](https://img.shields.io/badge/Svelte-000?style=for-the-badge&logo=svelte) -->
 
 #### CSS Library
 
@@ -57,11 +58,14 @@
 ![SQLITE](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
 ![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase&style=for-the-badge)
 ![MongoDb](https://img.shields.io/badge/MongoDb-000?logo=mongodb&style=for-the-badge)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-000?style=for-the-badge&logo=apollo-graphql)
+![Appwrite](https://img.shields.io/badge/-Appwrite-000?style=for-the-badge&logo)
 
 #### Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-000?logo=express&logoColor=%2361DAFB&style=for-the-badge)
+
 
 #### Web & App Hosting
 
