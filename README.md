@@ -65,7 +65,7 @@
 
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-000?logo=express&logoColor=%2361DAFB&style=for-the-badge)
-
+![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white)
 
 #### Web & App Hosting
 
