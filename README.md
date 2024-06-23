@@ -78,9 +78,10 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
-
-<a href="http://www.github.com/luciferro01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=luciferro01&bg_color=171717&color=6366f1&line=f97316&point=6366f1&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-![Snake animation](https://github.com/luciferro01/luciferro01/blob/output/github-contribution-grid-snake.svg)
+## 📟 GitHub Stats
+<p align="center">
+	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=luciferro01&count_private=true&show_icons=true&theme=dracula" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luciferro01&count_private=true&show_icons=true&theme=dracula" />
+</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{luciferro01}/count.svg)
