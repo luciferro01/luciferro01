@@ -6,7 +6,7 @@
 <!-- I have been learning code to code for 8 months now, after exploring various frameworks and learning new tech, I started Flutter and fall in love with it instantly, same way in the Bollywood movies.
  -->
 * 🌍  I'm based in India
-* ✉️  You can contact me at [mohil1111bansal@gmail.com](mailto:mohil1111bansal@gmail.com)
+* ✉️  You can contact me at [mohilbansal.official@gmail.com](mailto:mohilbansal.official@gmail.com)
 * 🧠  I'm learning some cool Backend services
 * 🤝  I'm open to collaborating on Flutter projects
 * ⚡  I'm secretly Doctor Strange... but don't tell anyone
